@@ -11,12 +11,12 @@ journey to help others understand web vulnerabilities and how to fix them.
 
 ---
 ## Progress
-| Category | Completed |
-|---|---|
-| SQL Injection | 0 |
-| XSS | 0 |
-| Authentication | 0 |
-| Access Control | 0 |
+| Category       | Completed |
+| -------------- | --------- |
+| SQL Injection  | 1         |
+| XSS            | 0         |
+| Authentication | 0         |
+| Access Control | 0         |
 
 ---
 ## Structure
