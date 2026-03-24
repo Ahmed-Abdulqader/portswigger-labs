@@ -13,7 +13,7 @@ journey to help others understand web vulnerabilities and how to fix them.
 ## Progress
 | Category       | Completed |
 | -------------- | --------- |
-| SQL Injection  | 7         |
+| SQL Injection  | 12        |
 | XSS            | 0         |
 | Authentication | 0         |
 | Access Control | 0         |
