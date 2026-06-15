@@ -14,7 +14,7 @@ journey to help others understand web vulnerabilities and how to fix them.
 | Category       | Completed |
 | -------------- | --------- |
 | SQL Injection  | 16        |
-| XSS            | 0         |
+| XSS            | 10        |
 | Authentication | 0         |
 | Access Control | 0         |
 
